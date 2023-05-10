@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CTF Menina de Cybersec 2023.1![logo-meninadecybersec2.jpg](/files/88ebe62e23b8f4cea547b257d6d3d79c/logo-meninadecybersec2.jpg)</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" href="/themes/ftheme/static/img/favicon.ico?d=15c13329" type="image/x-icon">
+	<link rel="stylesheet" href="/themes/ftheme/static/css/fonts.min.css?d=15c13329">
+	<link rel="stylesheet" href="/themes/ftheme/static/css/main.min.css?d=15c13329">
+	<link rel="stylesheet" href="/themes/ftheme/static/css/apt42.min.css?d=15c13329">
+	
+	
+
+	
+	<script type="text/javascript">
+		var init = {
+			'urlRoot': "",
+			'csrfNonce': "27742c5ffbd45ca2499fa0af48f3f96900a8fed63136dea57f2bea69a08d4104",
+			'userMode': "users",
+			'userId': 0,
+			'start': null,
+			'end': null,
+			'theme_settings': null
+		}
+	</script>
+	<style id="theme-color">
+:root {
+  --theme-color: #000000;
+  --secondary: #8A00EC;
+  --primary: #360075;
+  --darker-red: #000000;
+  --accent: #8A00EC;
+  --orange: #FFFFFF;
+}
+  
+body{background: #000000 !important}
+
+.navbar{background-color: var(--theme-color) !important;}
+.jumbotron{background-color: var(--theme-color) !important;}
+.nav-link:hover {color: var(--secondary) !important;}
+.nav-link:focus {color: var(--secondary) !important;}
+.form-control:focus {color: var(--secondary) !important;}
+
+.form-control:hover, .input-filled-valid {box-shadow: 0 0 0 0.1rem var(--secondary); border-color: var(--secondary)}
+.form-control:focus, .input-filled-valid {box-shadow: 0 0 0 0.1rem var(--secondary); border-color: var(--secondary)}
+  
+</style>
+</head>
+<body>
+	<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+    <div class="container">
+        <a href="/" class="navbar-brand">
+            
+                <img class="img-responsive ctf_logo" src="/files/88ebe62e23b8f4cea547b257d6d3d79c/logo-meninadecybersec2.jpg" height="30" alt="CTF MCS">
+            
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#base-navbars"
+                aria-controls="base-navbars" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="base-navbars">
+            <ul class="navbar-nav mr-auto">
+                
+
+                
+                    <li class="nav-item">
+                        <a class="nav-link" href="/users" p style="color:white">Users</a>
+                    </li>
+                    
+                
+
+                
+                    <li class="nav-item">
+                        <a class="nav-link" href="/scoreboard" p style="color:white">Scoreboard</a>
+                    </li>
+                
+
+                <li class="nav-item">
+                    <a class="nav-link" href="/challenges" p style="color:white">Challenges</a>
+                </li>
+            </ul>
+
+            <hr class="d-sm-flex d-md-flex d-lg-none">
+
+            <ul class="navbar-nav ml-md-auto d-block d-sm-flex d-md-flex">
+                
+                    
+                    <li class="nav-item">
+                        <a class="nav-link" href="/login" p style="color:white">
+                            <span class="d-block" data-toggle="tooltip" data-placement="bottom" title="Login">
+                                <i class="fas fa-sign-in-alt d-none d-md-block d-lg-none"></i>
+                            </span>
+                            <span class="d-sm-block d-md-none d-lg-block">
+                                <i class="fas fa-sign-in-alt pr-1"></i>Login
+                            </span>
+                        </a>
+                    </li>
+                
+            </ul>
+        </div>
+    </div>
+</nav>
+
+	<main role="main">
+		
+	<div class="container" p style="color:white">
+	<br/>
+<br/>
+<img src="/files/fb0b279ce35c76fbffe578bc21e1646b/logo-efeito.gif" style="width: 200px" alt="Logo Menina de Cybersec"><br>
+<h3><br>Informações Gerais</h3>
+<ul>
+  <li>O CTF será disponibilizado para a comunidade no dia <b>29/04 a partir das 18hs</b>.</li>
+  <li>A competição será encerrada no dia <b>07/05 às 18hs</b>, sem chance de inclusão de submissões ou conclusão de challs.</li>
+  <li><b>Novas hints (dicas)</b> serão postadas em nosso canal do Discord, <b>#ctf-2023-1</b> por nossos moderadores.</li>
+</ul>
+<h3>Participação</h3>
+<ul>
+  <li>Para participar da premiação, o usuário do Discord deve ser o mesmo da plataforma do CTF!</li>
+  <li>É proibido criar duas contas para o mesmo usuário, sob pena de desclassificação.</li>
+  <li>O participante não pode modificar nada dos servidores que impeça outros participantes de obter ou comprometer os dados.</li>
+</ul>
+<ul>
+<strong>Siga nossas redes sociais:</strong> <br>
+    <a href="https://www.instagram.com/meninadecybersec">Instagram</a><br>
+  	<a href="https://www.twitter.com/meninacybersec">Twitter</a><br>
+  	<a href="https://linktr.ee/meninadecybersec">Linktree</a>
+  
+</ul>
+	</div>
+
+	</main>
+
+
+		<div class="container text-center">
+				<a href="https://linktr.ee/meninadecybersec" class="text-secondary"> <small class="text-muted">Comunidade Menina de Cybersec</small> </a>
+		</div>
+
+
+	<script defer src="/themes/ftheme/static/js/vendor.bundle.min.js?d=15c13329"></script>
+	<script defer src="/themes/ftheme/static/js/core.min.js?d=15c13329"></script>
+	<script defer src="/themes/ftheme/static/js/helpers.min.js?d=15c13329"></script>
+
+	
+	<script defer src="/themes/ftheme/static/js/pages/main.min.js?d=15c13329"></script>
+	
+
+	
+	
+
+	
+
+	
+</body>
+</html>
